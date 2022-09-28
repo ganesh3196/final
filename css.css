@@ -1,0 +1,17 @@
+body{
+background:#171717;
+color:white;
+text-align:center;
+margin-top:160px;
+}
+
+.btn{
+margin-top:20px;
+padding:10px 14px;
+background:#dcdcdc;
+border-radius:10px
+} 
+
+.link{
+color:black;
+}

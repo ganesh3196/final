@@ -1,0 +1,32 @@
+body{
+margin-top:50px;
+background:white;
+color:black;
+text-align:center;
+}
+
+.img{
+width:120px;
+}
+
+.main{
+text-align:center;
+background:#e5e4e2;
+width:340px;
+margin:30px 470px;
+padding: 2px 5px;
+
+}
+
+.btn{
+display:block;
+}
+
+.btn2{
+padding: 10px 31px;
+border-radius:8px;
+}
+
+.smooth{
+color:black;
+}
